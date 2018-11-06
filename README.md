@@ -6,6 +6,6 @@ PCA is an unsupervised algorithm that is used for feature extraction in high-dim
 
 The goal of LDA is to find the feature subspace that optimizes class separability. Hence, LDA is a supervised algorithm. In this code, we illustrate the implementation of LDA using the iris dataset.
 
-# iris.data.csv: iris dataset
+iris.data.csv: iris dataset
 
-# LDA_irisdataset.ipynb: notebook file containing implementation of LDA
+LDA_irisdataset.ipynb: notebook file containing implementation of LDA

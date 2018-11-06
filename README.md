@@ -9,3 +9,5 @@ The goal of LDA is to find the feature subspace that optimizes class separabilit
 iris.data.csv: iris dataset
 
 LDA_irisdataset.ipynb: notebook file containing implementation of LDA
+
+LDA_irisdataset.py: python script containing implementation of LDA

@@ -4,7 +4,7 @@ This code illustrates the implementation of LDA using the iris dataset
 
 Created on Tue Nov  6 15:02:10 2018
 
-@author: btayo
+@author: Benjamin O. Tayo
 """
 #Import necessary libraries
 import numpy as np
